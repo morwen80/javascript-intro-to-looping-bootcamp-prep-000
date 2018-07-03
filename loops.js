@@ -18,7 +18,7 @@ array.push(`I am ${i} strange loop.`)
 }
 
 else {
-array.push("I am " + i + " strange loops.");
+array.push(`I am ${i} strange loops.`)
 }
 
 }
