@@ -17,8 +17,11 @@ function forLoop(array){
 array.push("I am 1 strange loop.");
 }
 
-e
+else {
+array.push("I am " + i + " strange loops.");
+}
 
+}
 
 
 function whileLoop(number){
